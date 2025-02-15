@@ -2,7 +2,7 @@
 
 this is to list a bunch of my projects
 
-# writings
+# Writings
 
 These are articles, papers, and anything in between:
 
@@ -16,7 +16,7 @@ These are articles, papers, and anything in between:
 
 - on DF readiness published internally at Directorate General of Taxes, download [here](writings/Digital%20Forensics%20Readiness.pdf)
 
-# presentation
+# Presentation
 
 These are presentation, talks, teaching materials and anything in between:
 
