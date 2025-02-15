@@ -15,3 +15,15 @@ These are articles, papers, and anything in between:
 - on fuzzy hash published internally at Directorate General of Taxes, download [here](writings/mencari%20jerami%20di%20antara%20tumpukan%20jarum%20dengan%20fuzzy%20hash.pdf)
 
 - on DF readiness published internally at Directorate General of Taxes, download [here](writings/Digital%20Forensics%20Readiness.pdf)
+
+# presentation
+
+These are presentation, talks, teaching materials and anything in between:
+
+- digital forensic for cybercrime presented at indosec [here](ppt/df%20for%20cybercrime.pdf)
+- light hearted a day in a life of IR, done at the invitation of a digital forensic community [here](ppt/day%20in%20the%20life%20of%20IR.pdf)
+- primer on email headers investigation, used internally at Directorate General of Taxes [here](ppt/email.pdf)
+- primer into network investigation for University of Muhammadiyah Riau
+
+# Other
+- [infosec compendium](https://aldosimon.com/infosec-compendium-page)
