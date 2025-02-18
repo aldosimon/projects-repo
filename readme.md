@@ -6,9 +6,11 @@ this is to list a bunch of my projects
 
 These are articles, papers, and anything in between:
 
-- on honeypot use case published at cdef.id, download [here]( ) or [here](writings/The%20Fault%20in%20Our%20Shells.pdf)
+- on honeypot use case published at [cdef.id](https://cdef.id), download [here](https://cdef.id/4th-edition-bulletin-released/) or [here](writings/The%20Fault%20in%20Our%20Shells.pdf)
 
-- on  MITRE ATT@CK published at cdef.id, download [here](https://cdef.id/cdef-buletin-edisi-1-2022/) or [here](writings/CDEF%20Buletin%20Edisi%201%20Tahun%202022.pdf)
+- on  MITRE ATT@CK published at [cdef.id](https://cdef.id), download [here](https://cdef.id/cdef-buletin-edisi-1-2022/) or [here](writings/CDEF%20Buletin%20Edisi%201%20Tahun%202022.pdf)
+
+- on windows core process at [cdef.id](https://cdef.id), download [here](https://cdef.id/cdef-buletin-edisi-1-2022/) or [here](writings/CDEF%20Buletin%20Edisi%201%20Tahun%202022.pdf)
 
 - on windows registry published internally at Directorate General of Taxes, download [here](writings/Analisis%20Aktivitas%20User%20melalui%20Windows%20Registry.pdf)
 
