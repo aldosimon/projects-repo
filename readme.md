@@ -18,6 +18,8 @@ These are articles, papers, and anything in between:
 
 - on DF readiness published internally at Directorate General of Taxes, download [here](writings/Digital%20Forensics%20Readiness.pdf)
 
+- various internal training presentation at Directorate General of Taxes, mostly confidential for internal use
+
 # Presentation
 
 These are presentation, talks, teaching materials and anything in between:
@@ -28,4 +30,5 @@ These are presentation, talks, teaching materials and anything in between:
 - primer into network investigation for University of Muhammadiyah Riau
 
 # Other
+- [SteampipeCollection](https://github.com/aldosimon/SteampipeCollection)
 - [infosec compendium](https://aldosimon.com/infosec-compendium-page)
